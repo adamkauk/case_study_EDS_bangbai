@@ -41,10 +41,10 @@ A big firm, say walmart, wants to build a cashing system. What would be the best
 
   * What is not API help with?
   
-        *web-based system
-        *operating system
-        *database system
-        *hardware design
+        *web-based system(0)
+        *operating system(0)
+        *database system(0)
+        *hardware design(1)
 
 * Future Proof
 
