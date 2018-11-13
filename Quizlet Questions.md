@@ -20,8 +20,8 @@
 
 A big firm, say walmart, wants to build a cashing system. What would be the best way to do this?
 
-    * Custom Software
-    * SaaS
-    * API
+  * Custom Software
+  * SaaS
+  * API
 
 * REST
