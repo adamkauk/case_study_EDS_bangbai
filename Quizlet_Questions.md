@@ -34,3 +34,11 @@ A big firm, say walmart, wants to build a cashing system. What would be the best
     * API
 
 * REST
+
+## Jack
+
+* API
+
+
+
+* Future Proof
