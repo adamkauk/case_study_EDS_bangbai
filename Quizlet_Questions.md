@@ -41,16 +41,16 @@ A big firm, say walmart, wants to build a cashing system. What would be the best
 
   * What is not API help with?
   
-        *web-based system(0)
-        *operating system(0)
-        *database system(0)
-        *hardware design(1)
+        1.web-based system(0)
+        2.operating system(0)
+        3.database system(0)
+        4.hardware design(1)
 
 * Future Proof
 
   * What is the characteristic that is not included in future proof?
   
-        *fleible distribution system(0)
-        *allow communication technology to expand(0)
-        *increase speed of transfer(1)
-        *able to handle increasing file size(0)
+        1.fleible distribution system(0)
+        2.allow communication technology to expand(0)
+        3.increase speed of transfer(1)
+        4.able to handle increasing file size(0)
