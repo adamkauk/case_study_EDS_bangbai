@@ -35,13 +35,22 @@ A big firm, say walmart, wants to build a cashing system. What would be the best
 
 * REST
 
-##Tom
-which method below is load balancing?
-  1. Socket
-  2. Real-time
-  3. IP hash
+## Jack
+
+* API
+
+  * What is not API help with?
   
-which below is real time?
-  1. retrive data
-  2. GPS
-  3. cookies
+        *web-based system
+        *operating system
+        *database system
+        *hardware design
+
+* Future Proof
+
+  * What is the characteristic that is not included in future proof?
+  
+        *fleible distribution system(0)
+        *allow communication technology to expand(0)
+        *increase speed of transfer(1)
+        *able to handle increasing file size(0)
