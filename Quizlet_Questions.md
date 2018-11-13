@@ -2,6 +2,7 @@
 * GPS 
 
   * Question:
+  
   Global Positioning System (GPS) is a:
   
   * Choice:
@@ -12,6 +13,7 @@
 
 * Scalability
   * Questions:
+  
   Which is not a principle of scalability:
   
   * Choice 
